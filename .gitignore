@@ -1,0 +1,12 @@
+*.exe
+*.dll
+*.so
+*.dylib
+
+# ttest binaruy
+*.ttest
+# Coverage
+*.out
+
+Db folder
+db/
